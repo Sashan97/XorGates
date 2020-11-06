@@ -1,0 +1,13 @@
+C:\Users\sasho\source\repos\XorGates\XorGates\bin\Debug\netcoreapp3.1\XorGates.exe
+C:\Users\sasho\source\repos\XorGates\XorGates\bin\Debug\netcoreapp3.1\XorGates.deps.json
+C:\Users\sasho\source\repos\XorGates\XorGates\bin\Debug\netcoreapp3.1\XorGates.runtimeconfig.json
+C:\Users\sasho\source\repos\XorGates\XorGates\bin\Debug\netcoreapp3.1\XorGates.runtimeconfig.dev.json
+C:\Users\sasho\source\repos\XorGates\XorGates\bin\Debug\netcoreapp3.1\XorGates.dll
+C:\Users\sasho\source\repos\XorGates\XorGates\bin\Debug\netcoreapp3.1\XorGates.pdb
+C:\Users\sasho\source\repos\XorGates\XorGates\obj\Debug\netcoreapp3.1\XorGates.csprojAssemblyReference.cache
+C:\Users\sasho\source\repos\XorGates\XorGates\obj\Debug\netcoreapp3.1\XorGates.AssemblyInfoInputs.cache
+C:\Users\sasho\source\repos\XorGates\XorGates\obj\Debug\netcoreapp3.1\XorGates.AssemblyInfo.cs
+C:\Users\sasho\source\repos\XorGates\XorGates\obj\Debug\netcoreapp3.1\XorGates.csproj.CoreCompileInputs.cache
+C:\Users\sasho\source\repos\XorGates\XorGates\obj\Debug\netcoreapp3.1\XorGates.dll
+C:\Users\sasho\source\repos\XorGates\XorGates\obj\Debug\netcoreapp3.1\XorGates.pdb
+C:\Users\sasho\source\repos\XorGates\XorGates\obj\Debug\netcoreapp3.1\XorGates.genruntimeconfig.cache
